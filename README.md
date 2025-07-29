@@ -1,5 +1,6 @@
 # CMR
-A project for the course "Control Methods for Robotics" by David ten Kate & Naut Folkers
+A project for the course "Control Methods for Robotics" by David ten Kate & Naut Folkers.
+
 The code is built for the Franka Panda Emika Robot in ROS with libfranka (C++) and FCI
 
 # Sources
